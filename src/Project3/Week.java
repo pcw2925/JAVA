@@ -1,0 +1,12 @@
+package Project3;
+
+public enum Week {
+	SUNDAY,
+	MONDAY,
+	TUESDAY,
+	WEDNESDAY,
+	THURSDAY,
+	FRIDAY,
+	SATURADAY, SATURDAY
+	
+}
